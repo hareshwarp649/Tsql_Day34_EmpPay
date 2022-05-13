@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TsqlEmploPay9", "TsqlEmploPay9.csproj", "{D5509836-47D0-47FF-BBEF-11F71C533323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5509836-47D0-47FF-BBEF-11F71C533323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5509836-47D0-47FF-BBEF-11F71C533323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5509836-47D0-47FF-BBEF-11F71C533323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5509836-47D0-47FF-BBEF-11F71C533323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {651EEE12-0895-4848-B888-C3DE491A48FE}
+	EndGlobalSection
+EndGlobal

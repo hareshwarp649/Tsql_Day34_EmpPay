@@ -1,0 +1,8 @@
+C:\Users\ADMIN\Desktop\MsSqlAssignment\day34-TSQL\TsqlEmploPay9\bin\Debug\TsqlEmploPay9.exe.config
+C:\Users\ADMIN\Desktop\MsSqlAssignment\day34-TSQL\TsqlEmploPay9\bin\Debug\TsqlEmploPay9.exe
+C:\Users\ADMIN\Desktop\MsSqlAssignment\day34-TSQL\TsqlEmploPay9\bin\Debug\TsqlEmploPay9.pdb
+C:\Users\ADMIN\Desktop\MsSqlAssignment\day34-TSQL\TsqlEmploPay9\obj\Debug\TsqlEmploPay9.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\day34-TSQL\TsqlEmploPay9\obj\Debug\TsqlEmploPay9.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\day34-TSQL\TsqlEmploPay9\obj\Debug\TsqlEmploPay9.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\MsSqlAssignment\day34-TSQL\TsqlEmploPay9\obj\Debug\TsqlEmploPay9.exe
+C:\Users\ADMIN\Desktop\MsSqlAssignment\day34-TSQL\TsqlEmploPay9\obj\Debug\TsqlEmploPay9.pdb
